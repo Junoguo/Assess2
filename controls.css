@@ -1,0 +1,26 @@
+
+.input {
+    width: 50px;
+}
+
+#number {
+    background-color: black;
+    color: white;
+}
+
+#random {
+    background-color: pink;
+}
+
+#create {
+    background-color: darkgrey;
+    color: white;
+}
+
+
+.itemsn {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+}
